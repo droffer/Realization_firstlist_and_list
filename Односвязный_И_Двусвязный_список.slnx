@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Односвязный_И_Двусвязный_список/Односвязный_И_Двусвязный_список.vcxproj" Id="fa0a0ae0-b39e-481e-963c-d0c9f66135d6" />
+</Solution>
